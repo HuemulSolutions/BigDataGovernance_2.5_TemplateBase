@@ -1,4 +1,4 @@
-# BigDataGovernance_2.4_TemplateBase
+# BigDataGovernance_2.5_TemplateBase
 Proyecto base para ser utilizado en cualquier proyecto BigData
 
 ## Instrucciones
@@ -9,5 +9,5 @@ Proyecto base para ser utilizado en cualquier proyecto BigData
     - Project Name
     - Descripcion
     
-* Ajustar los packages en funciÃ³n del Group Id y Artifact Id que tiene tu proyecto.
-* Se recomienda eliminar el fichero "globalSettings.scala" y utilizar un proyecto por separado con esta informaciÃ³n.
+* Ajustar los packages en función del Group Id y Artifact Id que tiene tu proyecto.
+* Se recomienda eliminar el fichero "globalSettings.scala" y utilizar un proyecto por separado con esta configuración.
